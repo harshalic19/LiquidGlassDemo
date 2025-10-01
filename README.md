@@ -22,9 +22,11 @@ A modern **iOS SwiftUI demo app** showcasing **Liquid Glass UI** design and mult
 ---
 
 ## Screenshots
-<img width="1206" height="2622" alt="simulator_screenshot_94BD028D-EE64-4F73-9AF3-6AD513D7667A" src="https://github.com/user-attachments/assets/f40279ac-5066-450a-aae2-c6ba9e24da4f" />
-<img width="1206" height="2622" alt="simulator_screenshot_74C7D109-3457-4ECD-AB21-C1B9F1EB259B" src="https://github.com/user-attachments/assets/364dbe60-0189-4f4a-bbab-d80155eb19da" />
-<img width="1206" height="2622" alt="simulator_screenshot_7503494C-1A09-4524-B9DF-3D21D4472F92" src="https://github.com/user-attachments/assets/1af3bcaa-bd39-4c7d-85d0-fe5b83e818c2" />
+<p float="left">
+<img width="300" alt="simulator_screenshot_94BD028D-EE64-4F73-9AF3-6AD513D7667A" src="https://github.com/user-attachments/assets/f40279ac-5066-450a-aae2-c6ba9e24da4f" />
+<img width="300" alt="simulator_screenshot_74C7D109-3457-4ECD-AB21-C1B9F1EB259B" src="https://github.com/user-attachments/assets/364dbe60-0189-4f4a-bbab-d80155eb19da" />
+<img width="300" alt="simulator_screenshot_7503494C-1A09-4524-B9DF-3D21D4472F92" src="https://github.com/user-attachments/assets/1af3bcaa-bd39-4c7d-85d0-fe5b83e818c2" />
+</p>
 
 ---
 
